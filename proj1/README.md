@@ -28,23 +28,3 @@ run test.exe to run unit tests.
 `NAME` The name of the case that failed
 
 `LINE` What case number failed (or line in TESTCASEFILE.c that failed relative to where it actually is in the file)
-
-## FAQ
-
-Q: i got an error
-A: either i am wrong or you are
-
-Q: i think you are wrong
-A: tell me why and i will check
-
-Q: i think i am wrong
-A: relatable
-
-Q: make more tests
-A: submit test ideas, or try to read my code to add more
-
-Q: your code is bad
-A: yes
-
-Q: i could make it better
-A: please
